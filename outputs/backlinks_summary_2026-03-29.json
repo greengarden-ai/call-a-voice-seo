@@ -1,0 +1,67 @@
+{
+  "target": "callavoice.com",
+  "first_seen": "2023-10-14 20:26:22 +00:00",
+  "lost_date": null,
+  "rank": 0,
+  "backlinks": 34,
+  "backlinks_spam_score": 56,
+  "crawled_pages": 0,
+  "info": {
+    "server": null,
+    "cms": null,
+    "platform_type": null,
+    "ip_address": null,
+    "country": null,
+    "is_ip": false,
+    "target_spam_score": 0
+  },
+  "internal_links_count": 0,
+  "external_links_count": 0,
+  "broken_backlinks": 0,
+  "broken_pages": 0,
+  "referring_domains": 32,
+  "referring_domains_nofollow": 10,
+  "referring_main_domains": 32,
+  "referring_main_domains_nofollow": 10,
+  "referring_ips": 15,
+  "referring_subnets": 15,
+  "referring_pages": 34,
+  "referring_pages_nofollow": 12,
+  "referring_links_tld": {
+    "pro": 4,
+    "org": 4,
+    "info": 3,
+    "com": 3,
+    "eu": 3,
+    "pages.dev": 2,
+    "party": 2,
+    "world": 2,
+    "net": 1,
+    "website": 1
+  },
+  "referring_links_types": {
+    "anchor": 34
+  },
+  "referring_links_attributes": {
+    "nofollow": 12,
+    "noopener": 2,
+    "noreferrer": 2
+  },
+  "referring_links_platform_types": {
+    "blogs": 22,
+    "cms": 22,
+    "unknown": 12
+  },
+  "referring_links_semantic_locations": {
+    "": 34
+  },
+  "referring_links_countries": {
+    "": 28,
+    "GA": 1,
+    "CV": 1,
+    "US": 1,
+    "GB": 1,
+    "CO": 1,
+    "DE": 1
+  }
+}
