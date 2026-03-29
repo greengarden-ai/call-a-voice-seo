@@ -1,10 +1,6 @@
 name: Competitor Discovery
 
 on:
-  push:
-    branches: [main]
-    paths-ignore:
-      - "outputs/**"
   schedule:
     - cron: "0 6 * * 1"
   workflow_dispatch:
