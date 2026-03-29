@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add outputs/competitors_*.csv outputs/competitors_*.json
+          git add outputs/
           git diff --cached --quiet || git commit -m "chore(data): competitor discovery $(date -u +%Y-%m-%d)"
           git pull --rebase origin main
           git push

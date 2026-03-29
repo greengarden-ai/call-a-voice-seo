@@ -18,7 +18,7 @@ DATAFORSEO_BASE_URL = "https://api.dataforseo.com/v3"
 
 # --- Competitor discovery ---
 COMPETITOR_LIMIT = 20          # max competitors to return
-COMPETITOR_MIN_INTERSECTIONS = 5  # shared keyword threshold
+COMPETITOR_MIN_INTERSECTIONS = 1  # shared keyword threshold
 
 # --- Keyword analysis ---
 KEYWORD_SEED_TERMS = [
