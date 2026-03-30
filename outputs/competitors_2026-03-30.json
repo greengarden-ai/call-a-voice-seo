@@ -1,0 +1,383 @@
+[
+  {
+    "se_type": "google",
+    "domain": "www.voicebot.net",
+    "avg_position": 1,
+    "median_position": 1,
+    "rating": 99,
+    "etv": 577.6,
+    "keywords_count": 1,
+    "visibility": 1,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice bot": [
+        1
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "learn.microsoft.com",
+    "avg_position": 1,
+    "median_position": 1,
+    "rating": 99,
+    "etv": 79.03999999999999,
+    "keywords_count": 1,
+    "visibility": 1,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "call automation": [
+        1
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.text-em-all.com",
+    "avg_position": 1,
+    "median_position": 1,
+    "rating": 99,
+    "etv": 486.4,
+    "keywords_count": 1,
+    "visibility": 1,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "automated calling": [
+        1
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "nextlevel.ai",
+    "avg_position": 1,
+    "median_position": 1,
+    "rating": 99,
+    "etv": 438.976,
+    "keywords_count": 1,
+    "visibility": 1,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "ai call center": [
+        1
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "voicebot.ai",
+    "avg_position": 2,
+    "median_position": 2,
+    "rating": 98,
+    "etv": 307.8,
+    "keywords_count": 1,
+    "visibility": 0.9,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice bot": [
+        2
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.canva.com",
+    "avg_position": 3,
+    "median_position": 3,
+    "rating": 97,
+    "etv": 2160.06,
+    "keywords_count": 1,
+    "visibility": 0.8,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice ai": [
+        3
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.callmultiplier.com",
+    "avg_position": 4,
+    "median_position": 4,
+    "rating": 96,
+    "etv": 105.44,
+    "keywords_count": 1,
+    "visibility": 0.7,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "automated calling": [
+        4
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.nice.com",
+    "avg_position": 5.4,
+    "median_position": 4,
+    "rating": 473,
+    "etv": 567.7284,
+    "keywords_count": 4,
+    "visibility": 3.05,
+    "relevant_serp_items": 5,
+    "keywords_positions": {
+      "voice bot": [
+        4
+      ],
+      "call automation": [
+        13
+      ],
+      "automated calling": [
+        2
+      ],
+      "ai call center": [
+        1,
+        7
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "voiceaiconnect.audiocodes.com",
+    "avg_position": 6,
+    "median_position": 6,
+    "rating": 94,
+    "etv": 64.22,
+    "keywords_count": 1,
+    "visibility": 0.5,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice bot": [
+        6
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.dialpad.com",
+    "avg_position": 6,
+    "median_position": 7,
+    "rating": 282,
+    "etv": 110.54454000000001,
+    "keywords_count": 3,
+    "visibility": 1.5000000000000002,
+    "relevant_serp_items": 3,
+    "keywords_positions": {
+      "voice bot": [
+        7
+      ],
+      "call automation": [
+        3
+      ],
+      "ai call center": [
+        8
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "sigmavoice.com",
+    "avg_position": 6,
+    "median_position": 6,
+    "rating": 94,
+    "etv": 54.08,
+    "keywords_count": 1,
+    "visibility": 0.5,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "automated calling": [
+        6
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.wired.com",
+    "avg_position": 6,
+    "median_position": 6,
+    "rating": 94,
+    "etv": 16.223999999999997,
+    "keywords_count": 1,
+    "visibility": 0.5,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "ai phone agent": [
+        6
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.bland.ai",
+    "avg_position": 6.166666666666667,
+    "median_position": 3,
+    "rating": 563,
+    "etv": 424.77670000000006,
+    "keywords_count": 6,
+    "visibility": 3.55,
+    "relevant_serp_items": 6,
+    "keywords_positions": {
+      "voice bot": [
+        17
+      ],
+      "call automation": [
+        2
+      ],
+      "automated calling": [
+        3
+      ],
+      "ai voice agent": [
+        8
+      ],
+      "ai phone agent": [
+        4
+      ],
+      "ai call center": [
+        3
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "vapi.ai",
+    "avg_position": 6.5,
+    "median_position": 5,
+    "rating": 374,
+    "etv": 971.992,
+    "keywords_count": 4,
+    "visibility": 1.9500000000000002,
+    "relevant_serp_items": 4,
+    "keywords_positions": {
+      "voice bot": [
+        12
+      ],
+      "voice ai": [
+        6
+      ],
+      "ai voice agent": [
+        3
+      ],
+      "ai phone agent": [
+        5
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "synthflow.ai",
+    "avg_position": 6.5,
+    "median_position": 5,
+    "rating": 374,
+    "etv": 275.28259999999995,
+    "keywords_count": 4,
+    "visibility": 1.85,
+    "relevant_serp_items": 4,
+    "keywords_positions": {
+      "automated calling": [
+        9
+      ],
+      "ai voice agent": [
+        5
+      ],
+      "ai phone agent": [
+        1
+      ],
+      "ai call center": [
+        11
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.wellsaid.io",
+    "avg_position": 7,
+    "median_position": 7,
+    "rating": 93,
+    "etv": 568.32,
+    "keywords_count": 1,
+    "visibility": 0.4,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice ai": [
+        7
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "boost.ai",
+    "avg_position": 7,
+    "median_position": 7,
+    "rating": 93,
+    "etv": 6.656000000000001,
+    "keywords_count": 1,
+    "visibility": 0.4,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "call automation": [
+        7
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "www.genesys.com",
+    "avg_position": 7.833333333333333,
+    "median_position": 3,
+    "rating": 553,
+    "etv": 501.552,
+    "keywords_count": 5,
+    "visibility": 3,
+    "relevant_serp_items": 6,
+    "keywords_positions": {
+      "voice bot": [
+        3
+      ],
+      "call automation": [
+        19
+      ],
+      "automated calling": [
+        13
+      ],
+      "ai phone agent": [
+        8
+      ],
+      "ai call center": [
+        2
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "app.kits.ai",
+    "avg_position": 8,
+    "median_position": 8,
+    "rating": 92,
+    "etv": 437.34,
+    "keywords_count": 1,
+    "visibility": 0.3,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice ai": [
+        8
+      ]
+    }
+  },
+  {
+    "se_type": "google",
+    "domain": "play.ht",
+    "avg_position": 9,
+    "median_position": 9,
+    "rating": 91,
+    "etv": 333,
+    "keywords_count": 1,
+    "visibility": 0.2,
+    "relevant_serp_items": 1,
+    "keywords_positions": {
+      "voice ai": [
+        9
+      ]
+    }
+  }
+]
